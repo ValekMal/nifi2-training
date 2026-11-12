@@ -215,7 +215,7 @@
       "properties" : {
         "Store State" : "Do not store state",
         "ppp1" : "dada",
-        "Cache Value Lookup Cache Size" : "100"
+        "Cache Value Lookup Cache Size" : "1000"
       },
       "propertyDescriptors" : {
         "Delete Attributes Expression" : {
@@ -282,8 +282,8 @@
       "name" : "ReplaceText",
       "penaltyDuration" : "30 sec",
       "position" : {
-        "x" : -568.0,
-        "y" : -192.0
+        "x" : -504.0,
+        "y" : -160.0
       },
       "properties" : {
         "Replacement Value" : "$1",
@@ -379,6 +379,6 @@
   "parameterProviders" : { },
   "snapshotMetadata" : {
     "flowIdentifier" : "flownumber2",
-    "timestamp" : 1794393615536
+    "timestamp" : 1794482178524
   }
 }
